@@ -3,3 +3,6 @@ uday
 murali
 gopal
 reddy
+king 
+queen
+joker

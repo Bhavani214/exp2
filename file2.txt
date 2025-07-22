@@ -2,3 +2,7 @@ jithu
 it
 bec
 bapatla
+low
+high
+lower
+upper
