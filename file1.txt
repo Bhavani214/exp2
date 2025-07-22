@@ -6,3 +6,4 @@ reddy
 king 
 queen
 joker
+power
